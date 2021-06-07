@@ -1,5 +1,3 @@
-plugins:
-  - "jekyll-github-metadata"
 site.title: iam0day
 name: iam0day
 title: iam0day
