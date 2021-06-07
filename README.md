@@ -1,7 +1,3 @@
-# iam0day
-
-> Fake developer, real vulnerability
-
 # ☎️ Contact Information
 
 📠 [Telegram](https://t.me/iam0day)
