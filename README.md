@@ -1,13 +1,3 @@
-📠 [Telegram](https://t.me/iam0day)
-
-🐦 [Twitter](https://twitter.com/iam0day)
-
-🐈 [Github](https://github.com/iam0day)
-
-🐕 [Reddit](https://www.reddit.com/user/iam0day)
-
----
-
 ## **🛠 Skills**
 
 ### 👨🏼‍💻 Programming Languages
