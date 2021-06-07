@@ -1,5 +1,3 @@
----
-
 ## **☎️ Contact Information**
 
 📠 [Telegram](https://t.me/iam0day)
