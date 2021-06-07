@@ -1,5 +1,4 @@
 ---
-is_post: true
 title: none
 ---
 
