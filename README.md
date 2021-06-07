@@ -1,4 +1,4 @@
-# **☎️ Contact Information**
+## **☎️ Contact Information**
 
 📠 [Telegram](https://t.me/iam0day)
 
@@ -10,9 +10,9 @@
 
 ---
 
-# **🛠 Skills**
+## **🛠 Skills**
 
-## 👨🏼‍💻 Programming Languages
+### 👨🏼‍💻 Programming Languages
 
 **HTML/CSS** ⭐️⭐️⭐️⭐️⭐️
 
@@ -26,7 +26,7 @@
 
 **RUST**⭐️
 
-## 🖼️ Frameworks
+### 🖼️ Frameworks
 
 **BOOTSTRAP/TAILWIND.CSS**  ⭐️⭐️
 
@@ -38,7 +38,7 @@
 
 **DJANGO/FLASK**  ⭐️⭐️
 
-## 👨🏼‍💻 Technologies
+### 👨🏼‍💻 Technologies
 
 **DOCKER/PODMAN**  ⭐️⭐️
 
@@ -48,7 +48,7 @@
 
 **COCKPIT**  ⭐️⭐️⭐️⭐️
 
-## 👨🏼‍🏫 Software
+### 👨🏼‍🏫 Software
 
 **PHOTOSHOP/PHOTO**  ⭐️
 
@@ -58,7 +58,7 @@
 
 **PYCHARM** ⭐️⭐️
 
-## 💻 Operating Systems
+### 💻 Operating Systems
 
 **LINUX**  ⭐️⭐️⭐️
 
