@@ -1,7 +1,6 @@
-name: none
 title: iam0day
-author: iam0day
-seo_paginator_message: none
+author:
+    twitter: iam0day
 logo: favicon.ico
 description: Fake developer, real vulnerability
 theme: jekyll-theme-cayman
