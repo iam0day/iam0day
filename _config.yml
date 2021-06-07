@@ -1,5 +1,8 @@
+plugins:
+  - "jekyll-github-metadata"
+site.title: iam0day
 name: iam0day
-title: null
+title: iam0day
 author: iam0day
 logo: favicon.ico
 description: Fake developer, real vulnerability
