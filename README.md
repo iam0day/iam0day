@@ -14,7 +14,7 @@
 
 ---
 
-# 🛠 Skills
+# **🛠 Skills**
 
 ### 👨🏼‍💻 Programming Languages
 
@@ -62,22 +62,10 @@
 
 **PYCHARM** ⭐️⭐️
 
-### 💻 Operating Systems
+### **💻 Operating Systems**
 
 **LINUX**  ⭐️⭐️⭐️
 
 **WINDOWS** ⭐️⭐️⭐️⭐️
 
 **MACOS** ⭐️⭐️
-
----
-
-## 🗣 Languages
-
-### 🇮🇹 Italian   |  ⭐️⭐️⭐️⭐️⭐️
-
-### 🇩🇪 German  | 󠁧󠁢󠁥⭐️⭐️
-
-### 🏴 English 󠁧󠁧󠁢󠁥󠁮󠁧󠁿 | ⭐️⭐️⭐️
-
----
