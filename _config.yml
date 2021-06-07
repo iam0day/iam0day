@@ -4,6 +4,8 @@ site.title: iam0day
 name: iam0day
 title: iam0day
 author: iam0day
+twitter_username: iam0day
+github_username:  iam0day
 logo: favicon.ico
 description: Fake developer, real vulnerability
 theme: jekyll-theme-cayman
